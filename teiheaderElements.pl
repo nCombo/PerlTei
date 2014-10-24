@@ -16,3 +16,5 @@ while (my $ligne = <$fichier>) {
 
 close ($sortie) ;
 close ($fichier) ;
+
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
